@@ -17,8 +17,8 @@ const navLinks = [
     },
     {
         id: 3,
-        name: "blog",
-        path: "/blog",
+        name: "blogs",
+        path: "/blogs",
     },
     {
         id: 4,
