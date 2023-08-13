@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.not-found {
+  width: 600px;
+  background: #f00;
+}
