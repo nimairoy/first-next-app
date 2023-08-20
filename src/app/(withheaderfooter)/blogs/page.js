@@ -32,7 +32,7 @@ import React from "react";
 const BlogPage = async () => {
 
   const blogs = await BlogDataLoader();
-  console.log(blogs)
+  // console.log(blogs)
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-4 gap-4 py-20 container mx-auto">

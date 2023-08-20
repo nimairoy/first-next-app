@@ -1,0 +1,152 @@
+{
+    "categories": [
+        {
+            "id": 1, 
+            "name": "Electronics",
+            "imageUrl" : "https://example.com/electronics.jpg"
+        },
+        {
+            "id": 2, 
+            "name": "Clothing",
+            "imageUrl" : "https://example.com/Clothing.jpg"
+        },
+        {
+            "id": 3, 
+            "name": "Books",
+            "imageUrl" : "https://example.com/Books.jpg"
+        },
+        {
+            "id": 4, 
+            "name": "Home Decor",
+            "imageUrl" : "https://example.com/Home Decor.jpg"
+        },
+        {
+            "id": 5, 
+            "name": "Sports",
+            "imageUrl" : "https://example.com/Sports.jpg"
+        },
+        {
+            "id": 6, 
+            "name": "Toys",
+            "imageUrl" : "https://example.com/Toys.jpg"
+        },
+        {
+            "id": 7, 
+            "name": "Beauty",
+            "imageUrl" : "https://example.com/Beauty.jpg"
+        },
+        {
+            "id": 8, 
+            "name": "Shoes",
+            "imageUrl" : "https://example.com/Shoes.jpg"
+        },
+        {
+            "id": 9, 
+            "name": "Fasions",
+            "imageUrl" : "https://example.com/Fasions.jpg"
+        },
+        {
+            "id": 10, 
+            "name": "Kitchenware",
+            "imageUrl" : "https://example.com/Kitchenware.jpg"
+        }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "title": "iPhone 12",
+            "price": 888,
+            "categoryId": 1,
+            "features": [
+                "A12 Bionic Chip",
+                "Super Redina Xposer Display",
+                "High Regulation Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone12.jpg"
+        },
+        {
+            "id": 2,
+            "title": "iPhone 14",
+            "price": 444,
+            "categoryId": 1,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone14.jpg"
+        },
+        {
+            "id": 3,
+            "title": "iPhone 17",
+            "price": 777,
+            "categoryId": 1,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone17.jpg"
+        },
+        {
+            "id": 4,
+            "title": "iPhone 16",
+            "price": 444,
+            "categoryId": 1,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone16.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Nokia 16",
+            "price": 333,
+            "categoryId": 2,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone16.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Nokia 19",
+            "price": 222,
+            "categoryId": 2,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone16.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Nokia 14",
+            "price": 222,
+            "categoryId": 2,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone16.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Nokia 15",
+            "price": 211,
+            "categoryId": 2,
+            "features": [
+                "A14 Bionic Chip",
+                "Super Redina Xposer Display",
+                "Dual Camera"
+            ],
+            "imageUrl": "https://example.com/iPhone16.jpg"
+        }
+    ]
+}
