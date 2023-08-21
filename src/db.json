@@ -2,12 +2,12 @@
     "categories": [
         {
             "id": 1, 
-            "name": "Electronics",
+            "name": "iPhone",
             "imageUrl" : "https://example.com/electronics.jpg"
         },
         {
             "id": 2, 
-            "name": "Clothing",
+            "name": "Nokia",
             "imageUrl" : "https://example.com/Clothing.jpg"
         },
         {
