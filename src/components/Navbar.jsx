@@ -1,7 +1,6 @@
 'use client'
 
 import Link from 'next/link';
-import React from 'react';
 import { usePathname } from 'next/navigation';
 
 const navLinks = [
@@ -46,7 +45,7 @@ const Navbar = () => {
             <nav className='max-w-4xl mx-auto'>
                 <ul className='flex items-center justify-center space-x-6'>
                     {
-                        navLinks.map(({ name, path, id }) => {
+                        navLinks.map(({id, name, path }) => {
                             const isActive = pathname == path;
                             return (<Link
                                 href={path}
